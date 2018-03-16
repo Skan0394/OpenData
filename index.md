@@ -53,8 +53,6 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Le Phénomène Open Data</h1>
-                    <br/>
-                    <p>Responsive one-page scrolling template with sticky menu on the top of the page. The active page gets highlighted as the user scrolls on the page or selects an option in the menu.</p>
 					<p>A back to top arrow fades in as the user starts scrolling down the page which takes back to the welcome screen with one click.</p>
 					<p>You can edit and publish this template but please leave a reference to <a href="http://html5-templates.com/" target="_blank" rel="nofollow">HTML5 Templates</a>. Thank You!</p>
 					<p>&nbsp;</p>
